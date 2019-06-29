@@ -1,6 +1,6 @@
 # GenFormBundle
 #Hi this bundle created by safa touati for sofiatech 
-#submited on 29/06/2019
+submited on 29/06/2019
 #make sure that you follow all the insctructions to make your bundle working
 #this bundle helps you to make a form generator or to reuse all our tasks in your symfony project 
 #GenFormBundle adds support for creating dynamic forms. It can be used for contact, sweepstake or other forms.
